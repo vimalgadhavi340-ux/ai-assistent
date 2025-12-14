@@ -1,5 +1,5 @@
 
-import { GoogleGenAI, Type } from "@google/genai";
+import { GoogleGenAI } from "@google/genai";
 import { Message, UserRole, ModelType, GroundingMetadata, ResponseConfig } from '../types';
 
 // Initialize the client
